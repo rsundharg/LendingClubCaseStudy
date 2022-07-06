@@ -1,5 +1,6 @@
 # Project Name
 > Lending club case study project.
+
 Lending Club is a marketplace for personal loans that matches borrowers who are seeking a loan with investors looking to lend money and make a return. 
 
 
@@ -15,8 +16,8 @@ Lending Club is a marketplace for personal loans that matches borrowers who are 
 
 - Dataset talks about the borrowers informations such as loan amount, funded amount from investers etc
 - Removed the non relevant/Not applicable columns for easy analysis
-- 
-- 
+- Removed string in the column name "term" as they are mixed with nos.
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -30,21 +31,27 @@ Lending Club is a marketplace for personal loans that matches borrowers who are 
 
 
 ## Data analysis
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- 
+- 
+- 
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
+## Recommendations
+
+- High interest payments leads to high losses,  it is always better to consider low interest rates – So low risk at lower interest
+- One of the driving factor for lender is , it can be seen that people who have worked for 10 or more years are more likely to take a loan. 
+- Repayment structure is good  Average income of 100000 with more than 10 years of employment . So using this analysis the fund limit  can be  deciding factor for      finance company
+- Data shows that the most (>90%) borrowers from Rented &Mortgage home than the Own home. Means more borrowers these categories approaching for loan.
+
+
+
+
 - This project was based on [this tutorial](https://www.example.com).
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@rsundharg -  feel free to contact me!
 
 
 <!-- Optional -->
