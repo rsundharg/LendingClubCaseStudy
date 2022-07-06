@@ -31,7 +31,16 @@ Lending Club is a marketplace for personal loans that matches borrowers who are 
 
 
 ## Data analysis
-- 
+-  It can be seen that people who have worked for 10 or more years are more likely to take a loan.
+-  more than 90%  borrowers  taken loan amount upto 35000 who have got average income of 100000
+-  most people are in RENT & MORTAGE homes getting loanthan own house
+-  Correlation between total_pymnt_inv and total_pymnt is: 0.97
+-  Fully paid members are more than the other category
+
+
+
+
+
 - 
 - 
 
