@@ -24,8 +24,8 @@ Lending Club is a marketplace for personal loans that matches borrowers who are 
 ## Data cleaning/data manipulation
 - Found in specific column where no & string is mixed, so removed the string for easy analysis
 - Found few of the columns has more than 90% empty cells which are also removed
-- 
-- 
+
+ 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -36,13 +36,6 @@ Lending Club is a marketplace for personal loans that matches borrowers who are 
 -  most people are in RENT & MORTAGE homes getting loanthan own house
 -  Correlation between total_pymnt_inv and total_pymnt is: 0.97
 -  Fully paid members are more than the other category
-
-
-
-
-
-- 
-- 
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
